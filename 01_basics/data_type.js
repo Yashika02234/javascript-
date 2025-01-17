@@ -21,3 +21,13 @@ let state;//undefined
 
 console.log(typeof undefined)  //undefined
 console.log(typeof null)  //object
+/* primitive datatype
+7 types: string , number,boolean,null,undefined,symbol,bigint
+
+
+refrence(non primitive)
+array,object, functions
+
+
+
+*/
