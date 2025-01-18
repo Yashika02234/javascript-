@@ -31,3 +31,19 @@ array,object, functions
 
 
 */
+/****************************memory*********** */
+//stack(pribmitive),heap(non primitive)
+let myyoutubename ="yashikaaaa"
+let anothername = myyoutubename
+anothername= "chai aur code"
+console.log(anothername)
+console.log(myyoutubename)
+
+let userone  ={
+    email:"user@gmail.com",
+    upi:"user@ybl",
+}
+let usertwo = userone
+usertwo.email="yashi@221"
+console.log(userone.email)
+console.log(usertwo.email)
